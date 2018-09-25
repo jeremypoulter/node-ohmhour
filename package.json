@@ -2,7 +2,7 @@
   "name": "ohmhour",
   "version": "1.0.0",
   "description": "Node.JS library to get info on Ohm hours from OhmConnect",
-  "main": "main/ohmhour.js",
+  "main": "lib/ohmhour.js",
   "files": [
     "lib/",
     "LICENSE"
