@@ -32,5 +32,17 @@
   "dependencies": {
     "nock": "^10.0.0",
     "xmldoc": "^1.1.2"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremypoulter/node-ohmhour.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeremypoulter/node-ohmhour/issues"
+  },
+  "homepage": "https://github.com/jeremypoulter/node-ohmhour#readme"
 }
